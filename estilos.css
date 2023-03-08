@@ -525,14 +525,15 @@ footer p, b{
         .container-footer{
             width: 1300px;
             height: 1000px;
-    #rectangulo13{
-        width: 480px;
-        height: 373px;
-        margin-bottom: 300px;
-    }
-    .titulotrabajos{
-        padding: 20px;
-    }
+        }
+        #rectangulo13{
+            width: 480px;
+            height: 373px;
+            margin-bottom: 300px;
+        }
+        .titulotrabajos{
+            padding: 20px;
+        }
 
 }
 
